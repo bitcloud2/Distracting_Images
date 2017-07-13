@@ -1,4 +1,5 @@
 # Distracting Images
+Note: This was a work in progress that has since been abandoned.
 
 Jeffrey Roach, April 2016
 
